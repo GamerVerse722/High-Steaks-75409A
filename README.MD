@@ -1,3 +1,6 @@
+# Information
+- Our VEX V5 VRC competion has already completed their final competion at reagional.
+
 # Links
 - [Visual Studio Code Download](https://code.visualstudio.com/Download)
 - [Pros Extension Download](https://marketplace.visualstudio.com/items?itemName=sigbots.pros)
